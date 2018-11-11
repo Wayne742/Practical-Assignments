@@ -1,7 +1,4 @@
 # Programming-Practical-Assignments-S2-2018
 Programming for Data Analytics repository for practical assignments.
 
-### An explaination of what is contained in the repo
-
-
-### How to run the jupyter notebook
+This repo contains the Jupyter Notebook I created to analyse the random sampling library in Numpy.
